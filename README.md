@@ -27,6 +27,8 @@ This repository preserves the project as part of my software engineering portfol
 
 ## Screenshots
 
+These screenshots were taken from the original production website for which this plugin was developed. The website has since been redesigned, but the images have been preserved to demonstrate the plugin in its original context. Client-specific functionality has been replaced with generic placeholders in the source code.
+
 ### Desktop
 
 ![Desktop Screenshot](screenshots/Desktop.png)
