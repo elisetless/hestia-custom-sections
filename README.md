@@ -29,11 +29,11 @@ This repository preserves the project as part of my software engineering portfol
 
 ### Desktop
 
-![Desktop Screenshot](screenshots/desktop.png)
+![Desktop Screenshot](screenshots/Desktop.png)
 
 ### Mobile
 
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile Screenshot](screenshots/Mobile.png)
 
 ---
 
